@@ -1,7 +1,2 @@
-helloworld.cpp
-helloworld.exe
-team.exe
-watermelon.exe
-waytoolongwords.exe
-.vscode/settings.json
-.vscode/tasks.json
+**/*.json
+**/*.exe
